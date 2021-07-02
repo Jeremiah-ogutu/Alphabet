@@ -1,0 +1,2 @@
+rootProject.name = "Alphabet Grid"
+include ':app'
